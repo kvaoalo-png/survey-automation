@@ -1,0 +1,14 @@
+# macOS
+.DS_Store
+
+# Python
+__pycache__/
+*.pyc
+venv/
+.env
+
+# Firebase (КРИТИЧНО!)
+serviceAccountKey.json
+
+# Streamlit
+.streamlit/secrets.toml
